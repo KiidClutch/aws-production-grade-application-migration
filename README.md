@@ -139,5 +139,5 @@ AWS Cloud Engineer
 
 LinkedIn: www.linkedin.com/in/dwayne-cowart
 
-GitHub: *(add your GitHub profile link)*
+GitHub: [*(add your GitHub profile link)*](https://github.com/KiidClutch/aws-production-grade-application-migration)
 
