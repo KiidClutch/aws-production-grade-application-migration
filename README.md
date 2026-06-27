@@ -6,7 +6,7 @@ Production-grade migration of a Node.js Employee Directory application from an o
 
 ## Architecture
 
-<img width="1433" height="955" alt="image" src="https://github.com/user-attachments/assets/f8daf0c8-5a8a-4a44-b1ae-983ffa1f091a" />
+<img width="1427" height="951" alt="Screenshot 2026-06-27 113355" src="https://github.com/user-attachments/assets/baf773b7-51da-498d-b004-36bab2fc20f7" />
 
 ---
 
