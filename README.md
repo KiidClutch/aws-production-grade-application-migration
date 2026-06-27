@@ -63,3 +63,81 @@ Detailed documentation is available here:
 
 [View Full Project Documentation](documentation/AWS_Production_Grade_Application_Migration_Portfolio.pdf)
 
+---
+
+## Source Code
+
+The application source code is located in the `source/` directory.
+
+### Project Structure
+
+```text
+source/
+├── public/
+│   ├── app.js
+│   ├── index.html
+│   └── styles.css
+├── sql/
+│   └── init.sql
+├── db.js
+├── package.json
+├── package-lock.json
+└── server.js
+```
+
+The application includes:
+
+- **Node.js** backend using Express
+- **MySQL** database connectivity
+- **AWS Secrets Manager** integration for secure database credentials
+- REST API endpoints for managing employees
+- Responsive HTML, CSS, and JavaScript frontend
+
+---
+
+## Repository Structure
+
+```text
+aws-production-grade-application-migration/
+│
+├── README.md
+├── LICENSE
+│
+├── architecture/
+│   └── production-architecture.png
+│
+├── documentation/
+│   └── AWS_Production_Grade_Application_Migration_Portfolio.pdf
+│
+├── screenshots/
+│
+└── source/
+```
+
+---
+
+## Future Enhancements
+
+Potential improvements include:
+
+- CI/CD deployment with GitHub Actions
+- Infrastructure as Code using Terraform
+- Amazon CloudWatch monitoring
+- HTTPS using AWS Certificate Manager
+- Custom domain with Amazon Route 53
+- Containerized deployment using Docker and Amazon ECS/EKS
+
+---
+
+## Author
+
+**Dwayne Cowart**
+
+AWS Cloud Engineer
+
+📧 dcowart87@gmail.com
+
+LinkedIn: www.linkedin.com/in/dwayne-cowart
+
+GitHub: *(add your GitHub profile link)*
+
