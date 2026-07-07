@@ -57,9 +57,7 @@ This project demonstrates an end-to-end production-grade application migration f
 
 ---
 
-## Documentation
 
-Detailed documentation is available here:
 
 [View Full Project Documentation](documentation/AWS_Production_Grade_Application_Migration_Portfolio.pdf)
 
@@ -133,7 +131,7 @@ Potential improvements include:
 
 **Dwayne Cowart**
 
-AWS Cloud Engineer
+Cloud Engineer
 
 📧 dcowart87@gmail.com
 
